@@ -1,5 +1,5 @@
 
-EDA, Data Cleaning and Data Visualization on Zomato Dataset https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+Zomato Dataset https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 Zomato is an Indian multinational food delivery company. This Zomato dataset taken from kaggle and this dataset contains information on restaurants in the city of Bengaluru, India.In this project the Bangalore restaurant data analysis is done. Main motive of this project is to get a model to predict the rating of the restaurdent rating using the features of the restaurant like menu items, location, price range etc.
 
